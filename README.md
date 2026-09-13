@@ -1,5 +1,9 @@
 # FurlPay for LangChain
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![x402](https://img.shields.io/badge/x402-0052FF?style=flat-square)
+
 Give your [LangChain](https://python.langchain.com) agents a wallet. This package
 exposes the [FurlPay](https://furlpay.com) API as a set of typed LangChain tools —
 so an agent can **check balances, create checkouts, move stablecoins, place
