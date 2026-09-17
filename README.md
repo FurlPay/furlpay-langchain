@@ -10,8 +10,9 @@ so an agent can **check balances, create checkouts, move stablecoins, place
 investment orders, and pay for x402-protected APIs within a spending budget.**
 
 FurlPay is the open-source financial OS for the agentic internet: stablecoin
-payments + the first Solana-native **x402** facilitator. This is the LangChain
-binding for it.
+payments plus a hosted **x402** facilitator that verifies and settles EIP-3009
+authorizations on EVM networks (Base, Arbitrum). This is the LangChain binding
+for it.
 
 Maintained by [FurlPay](https://furlpay.com) · MIT licensed.
 
